@@ -1,4 +1,5 @@
 ### cjoop-dm - 大漠插件java版本
+[![Build Status](https://travis-ci.org/cjjava/cjoop-dm.svg?branch=master)](https://travis-ci.org/cjjava/cjoop-dm)
 
 该java插件针对v3.1233免费版本开发.请对号入座.
 
