@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.cjoop</groupId>
 	<artifactId>cjoop-dm</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>cjoop-dm</name>
 	<description>大漠插件</description>
 	<url>https://github.com/cjjava/cjoop-dm</url>
